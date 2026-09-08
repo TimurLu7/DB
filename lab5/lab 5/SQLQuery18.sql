@@ -1,0 +1,1 @@
+SELECT * FROM Отчет WHERE Сумма > 100;
