@@ -1,0 +1,2 @@
+DELETE FROM Рекорды
+WHERE YEAR(Дата) < 2000;
